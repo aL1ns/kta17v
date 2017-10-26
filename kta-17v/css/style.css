@@ -1,0 +1,26 @@
+body {
+	color:#000000;
+	background-color:#0072C6;
+	margin:0;
+}
+
+#container {
+	background-color:#00FFFF;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+	boreder-radius: 50%;
+}
+
+#gray {
+	filter: grayscale(100);
+}
+
+div {
+	background-color:#F4FA58;
+	text-align: center;
+}
